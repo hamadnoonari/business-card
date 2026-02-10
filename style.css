@@ -1,0 +1,77 @@
+body {
+  background-color: rosybrown;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+.business-card {
+  width: 300px;
+  height: 500px;
+  background-color: #b7bdc5;
+  margin: auto;
+  padding: 20px;
+  margin-top: 100px;
+  text-align: center;
+  border: 4px solid #163f0e;
+  font-size: 16px;
+}
+.profile-image {
+  max-width: 100%;
+  width: 120px;
+  height: 110px;
+  margin-top: 30px;
+}
+.full-name {
+  font-size: 23px;
+  line-height: 2px;
+  color: #535151;
+  margin-top: 59px;
+}
+.designation {
+  font-size: 18px;
+  line-height: 2px;
+  color: #5d5959;
+  margin-top: 31px;
+}
+.company {
+  font-size: 18px;
+  line-height: 2px;
+  color: #747070;
+  margin-top: 22px;
+}
+hr {
+  width: 80%;
+  border: 1px solid #460a0a;
+  border-radius: 9px;
+  height: 2px;
+  background-color: #460a0a;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.info {
+  font-size: 16px;
+}
+.down {
+  margin-top: 25px;
+  height: 1px;
+}
+.up {
+  height: 1px;
+}
+h2 {
+  font-size: 18px;
+  margin-top: 19px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  color: #460a0a;
+}
+a:active {
+  color: #0b0f4e;
+}
+p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
