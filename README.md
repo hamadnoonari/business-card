@@ -71,4 +71,6 @@ This project was created to practice:
 
 ## 📫 Connect
 
-Use the social links provided on the card to connect.
+Use the social links provided on the card to connect, or you can contact me via LinkedIn:
+
+ [💼 LinkedIn](https://www.linkedin.com/in/hamadullah-noonari-web-developer/)
