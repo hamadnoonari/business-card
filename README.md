@@ -1,6 +1,6 @@
 # 💳 Digital Business Card
 
-A clean digital business card built with HTML and CSS.
+A clean digital business card built with HTML5 and CSS3.
 It presents essential personal details in a modern card layout, making it perfect for a portfolio, personal website, or quick online identity.
 
 ## ✨ Features
@@ -17,15 +17,15 @@ It presents essential personal details in a modern card layout, making it perfec
 
 - Responsive and lightweight
 
-- Built using pure HTML and CSS
+- Built using pure HTML5 and CSS3
   
 ## 🧩 What This Project Shows
 
 - Proper HTML structure and semantic elements
 
-- Clean CSS styling and alignment
+- Clean CSS3 styling and alignment
 
-- Organized layout using core CSS concepts
+- Organized layout using core CSS3 concepts
 
 - Simple UI design without frameworks
 
@@ -33,9 +33,9 @@ It presents essential personal details in a modern card layout, making it perfec
 
  ## 🛠️ Built With
 
-- HTML
+- HTML5
 
-- CSS
+- CSS3
 
 No libraries. No frameworks. Just fundamentals.
 
@@ -47,7 +47,7 @@ This project was created to practice:
 
 - Presenting personal details in a professional format
 
-- Strengthening HTML and CSS fundamentals
+- Strengthening HTML and CSS3 fundamentals
 
 - Creating reusable components for personal branding
 
