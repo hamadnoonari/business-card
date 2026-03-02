@@ -33,9 +33,9 @@ It presents essential personal details in a modern card layout, making it perfec
 
  ## 🛠️ Built With
 
-- HTML5
+- HTML
 
-- CSS3
+- CSS
 
 No libraries. No frameworks. Just fundamentals.
 
@@ -66,6 +66,7 @@ This project was created to practice:
 - All arranged in a visually balanced card interface.
 
  ## 📎 Live Preview
+
 
 ### https://hamadnoonari.github.io/business-card/
 
